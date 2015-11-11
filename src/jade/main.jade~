@@ -1,0 +1,14 @@
+html
+    head 
+        link(rel="stylesheet", href="/lib/bootstrap/dist/css/bootstrap.css")
+        link(rel="stylesheet", href="/css/jurgi.css")
+    header.container
+        
+    body
+	nav.row
+            li.col-md-4 item1
+            li.col-md-4 item2 
+            li.col-md-4 item3
+        button hola2
+
+script(src="http://localhost:35729/livereload.js")

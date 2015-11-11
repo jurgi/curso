@@ -1,0 +1,21 @@
+{
+  "debug":{
+    "path_js":  "./js/jurgi.js",
+    "path_css":"./css/jurgi.css",
+    "livereload": true,
+    "bootstrap_css": "../lib/bootstrap/dist/css/bootstrap.min.css",
+    "bootstrap_js": "../lib/bootstrap/dist/js/bootstrap.min.js",
+    "jquey": "../lib/jquery/dist/jquery.min.js"
+    
+  },
+  "build":{
+    "path_js":  "/js/jurgi.min.js",
+    "path_css":"/css/jurgi.min.css",
+    "livereload": false,
+    "bootstrap_css": "//maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css",
+    "bootstrap_js": "//maxcdn.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.min.js",
+    "jquey": "//code.jquery.com/jquery-1.11.2.min.js"
+  },
+  "srcPath" :"./src",
+  "distPath" :"./dist"
+}

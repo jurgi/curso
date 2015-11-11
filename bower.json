@@ -1,0 +1,11 @@
+{
+  "name": "jurgi",
+  "description": "Curso webDev2015",
+  "main": "index.js",
+  "authors": [
+    "yomismo"
+  ],
+  "license": "ISC",
+  "moduleType": [],
+  "homepage": ""
+}
